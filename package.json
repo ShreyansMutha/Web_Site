@@ -20,5 +20,11 @@
   "homepage": "https://github.com/ShreyansMutha/Web_Site#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "bootstrap": "^4.5.2",
+    "jquery": "^1.9.1",
+    "popper.js": "^1.16.1"
   }
 }
